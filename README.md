@@ -18,7 +18,7 @@ Follow these steps to set up and run EMS:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [Your Repository URL]
+   git clone https://github.com/sankalproy11/EMS.git
    ```
 2. **Install packages for both client and server:**
    ```bash
