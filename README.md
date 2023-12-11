@@ -1,24 +1,34 @@
-# Employee-Management-System
-This is a Full fledged Employee management system (CRUD operation) in MERN stack.
+# EMPLOYEE MANAGEMENT SYSTEM
 
-This repo contains two folders one for the server and another for the Client. Clone the repo and in the server folder create one .env file and paste your mongodbURI.
-After that type `npm install` and `npm run dev` this will start your dev server.
+## Overview
 
-The client folder contains the React app. Tpe `npm install` to install the dependencies and then type `npm start` to start the frontend.
+Welcome to EMS. This Employee Management System (EMS) is a sophisticated and user-friendly solution designed to streamline workforce management within your organization.
 
-### Feel free to contribut to this repo by adding some more features.
+## Features
 
-Follow: @frontend_edy on instagram for more amazing 🤪 project like this one.
+- **Intuitive User Interface:** Modern and responsive design for seamless user interaction.
+- **Comprehensive Employee Management:** Create, update, and delete employee profiles effortlessly.
+- **Role-Based Access Control (FUTURE SCOPE):** Ensure data security with tailored access levels for Admin/HR users.
+- **MongoDB Integration:** Efficient and scalable data storage for employee information.
+- **Future-Ready:** Designed to accommodate future expansions, including HR options like payroll and attendance tracking.
 
+## Getting Started
 
-ScreenShot 1
-![image](https://github.com/LalitKumar234/Employee-Management-System/assets/64685787/feb3c2ed-84bb-4cc4-a4d4-5b91cd6dca33)
+Follow these steps to set up and run EMS:
 
-ScreenShot 2
-![image](https://github.com/LalitKumar234/Employee-Management-System/assets/64685787/a52b441d-fecc-4770-8755-1a7da3620388)
-
-ScreenShot 3
-![image](https://github.com/LalitKumar234/Employee-Management-System/assets/64685787/c2588db3-dca7-46ad-901f-e709f7c129b1)
-
-
-
+1. **Clone the Repository:**
+   ```bash
+   git clone [Your Repository URL]
+   ```
+2. **Install packages for both client and server:**
+   ```bash
+   npm i
+   ```
+3. **Run the Sever**
+   ```bash
+   npm run dev
+   ```
+4. **Run the Client**
+   ```bash
+   npm run start
+   ```
